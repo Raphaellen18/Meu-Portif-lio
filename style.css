@@ -10,8 +10,9 @@
 body {
   margin: 0;
   padding: 0.5rem;
-  background-color: #141313;
-  color: #cbe6fc;
+  background: #1a174f;
+   background: radial-gradient(circle, rgba(26, 23, 79, 1) 0%, rgb(50, 50, 114) 35%, rgb(59, 40, 104) 100%);
+  color: #cbe6fc transparent;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5;
